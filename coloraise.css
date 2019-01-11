@@ -55,6 +55,12 @@ ShareAlike 4.0 International.
   font-weight: 900;
   font-size: 25px;
 }
+
+.tP-55555, .tP2-55555, .pencilP-55555 {
+  -webkit-margin-before: 0em;
+  -webkit-margin-after: 0em;
+}
+
 .tP2-55555 {
   top: 2px;
   left: 22px;
