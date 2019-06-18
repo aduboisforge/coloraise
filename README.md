@@ -1,4 +1,4 @@
-# Coloraise README.md
+# Coloraise
 
 Coloraise is a simple downloadable menu plugin that allows users to change colors on your web pages.
 
