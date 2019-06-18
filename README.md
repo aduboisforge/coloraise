@@ -15,7 +15,7 @@ Install files on your server and link them like so:
 
 * make sure you also have jQuery, since it is a dependency.
 
-## Step 2: Include empty `coloraise <div>`
+## Step 2: Include empty `'coloraise' <div>`
 
 Include following `div` on page where you want menu to show up.  Make sure that its parent container and positioning will actually allow it to show up on your page.
 
@@ -46,4 +46,4 @@ Coloraise has been released under a  [Creative Commons ShareAlike 4.0 Internatio
 
 Coloraise licensed under Creative Commons
 ShareAlike 4.0 International.
--Amy Dubois, 2018.
+-Amy Dubois, 2019.
