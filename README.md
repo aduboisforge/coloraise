@@ -1,8 +1,8 @@
 # Coloraise README.md
 
-Go to the [Coloraise API Documentation](https://aduboisforge.com/coloraise/coloraise.html) to see this dowloadable menu in action (top right corner of page).
-
 Coloraise is a simple downloadable menu plugin that allows users to change colors on your web pages.
+
+Go to the [Coloraise API Documentation](https://aduboisforge.com/coloraise/coloraise.html) to see this dowloadable menu in action (top right corner of page).
 
 ## Step 1: Intall files
 
