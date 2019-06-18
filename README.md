@@ -17,7 +17,7 @@ Install files on your server and link them like so:
 
 ## Step 2: Include empty `'coloraise' <div>`
 
-Include following `div` on page where you want menu to show up.  Make sure that its parent container and positioning will actually allow it to show up on your page.
+Include following `div` on page where you want menu to show up.  Make sure that its parent container and positioning will allow it to actually show up.
 
 ```
 <div class="coloraise"></div>
