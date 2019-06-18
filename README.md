@@ -13,7 +13,7 @@ Install files on your server and link them like so:
 <script src="/path/to/coloraise.js"></script>
 ```
 
-* make sure you also have jQuery, since it is a dependency.
+* make sure you also have jQuery linked. It is a dependency.
 
 ## Step 2: Include empty `'coloraise' <div>`
 
